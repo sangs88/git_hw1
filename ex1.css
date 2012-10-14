@@ -1,0 +1,33 @@
+html {color: white; background: black; padding: 20px 0;
+		font: 18px/24px "맑은 고딕", "Malgun Gothic", "굴림", "Gulim", Verdan, Arial, Tahoma;
+		margin: 15px;}
+
+	#wrap {
+		width: 500px;
+		margin: 0 auto;
+		background-color: #fff;
+	}
+	 #left{float: left;}
+	 #left a{color: #888; text-align: center; margin: 5px 30px;}
+	 #right_top{margin: 0 0 0 10px;}
+	 #right_middle a{text-decoration: none;}
+
+	span.gray{color: #888; margin: 0 5px 0 0;}
+
+	
+	table {
+		
+		border-collapse: collapse;
+		
+	}
+
+	table, th, td {
+		border: 1px solid white;
+	}
+
+	td { padding: 2px; }
+
+
+	a:link {color: red; padding: 5px;}
+
+	a:visited {color: red;}
